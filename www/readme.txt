@@ -1,6 +1,6 @@
 KELOMPOK 1
 Diah Ayu Irawati	  14/362091/SV/06352
-Sania Nur Agustina	
+Sania Nur Agustina	14/361875/SV/06139
 Mubarak             14/368887/SV/07135
 Joshua Arnorld Rumi	14/369016/SV/07199
 Dwi Rengga Prasetyo	14/368904/SV/07150
