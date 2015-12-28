@@ -1,4 +1,4 @@
-# basdat
+#BASDAT
 #KELOMPOK 1
 #Diah Ayu Irawati	  14/362091/SV/06352
 #Sania Nur Agustina	
